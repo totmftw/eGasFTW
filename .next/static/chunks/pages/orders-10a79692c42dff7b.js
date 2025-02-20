@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[891],{1335:(r,e,_)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/orders",function(){return _(8232)}])},8232:(r,e,_)=>{"use strict";_.r(e),_.d(e,{default:()=>s});var n=_(4848);function s(){return(0,n.jsx)("div",{children:"Orders Page"})}}},r=>{var e=e=>r(r.s=e);r.O(0,[636,593,792],()=>e(1335)),_N_E=r.O()}]);

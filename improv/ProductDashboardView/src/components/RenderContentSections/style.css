@@ -1,0 +1,11 @@
+.section-title-container1 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30.5px;
+  align-items: stretch;
+  justify-content: center;
+  padding-right: 17px;
+  padding-left: 13px;
+  margin-top: -5.25px;
+}

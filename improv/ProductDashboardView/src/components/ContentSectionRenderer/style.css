@@ -1,0 +1,32 @@
+.flex-row-with-icons-and-text {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+.section-title-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.svg-container1 {
+  display: flex;
+  flex: 0 0 auto;
+}
+.section-title-text-style {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 600 22px Roboto, sans-serif;
+  color: #d7e0ef;
+  white-space: pre-wrap;
+}
+.svg-container2 {
+  display: flex;
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+}

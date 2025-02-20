@@ -1,0 +1,42 @@
+Analyze all files in this folder mvpEgas/prereq/ before implement any feature 
+
+Project Setup & Folder Structure to strictly follow
+Folder Structure:
+src/
+├── pages/
+│   ├── auth/             # Login/Register pages
+│   ├── dashboard/        # Dashboard pages
+│   ├── catalog/          # Product catalog pages
+│   ├── reports/          # Reports pages
+│   ├── orders/           # Order details pages
+│   └── common/           # Shared page components
+├── components/
+│   ├── auth/             # Auth components (e.g., LoginForm)
+│   ├── dashboard/        # Dashboard widgets (e.g., charts)
+│   ├── catalog/          # Catalog components (e.g., ProductCard)
+│   ├── reports/          # Report components (e.g., OrderTable)
+│   └── common/           # Reusable components (e.g., Button, Input)
+├── utils/                # Utility functions (e.g., API calls, helpers)
+├── lib/                  # Supabase client setup
+├── styles/               # Global CSS/Tailwind styles
+└── app/                  # Next.js App Router (if using App Router)
+
+2. Feature Development Order
+#	Feature	Description	Order
+1	Authentication	User login/register with Supabase Auth.	1st
+2	Dashboard	Core metrics (GMV, orders, returns) with charts.	2nd
+3	Product Catalog	Base/Master/Marketplace catalog CRUD with image upload.	3rd
+4	SKU Calculator	Cost calculation tool (break-even price, profit margin).	4th
+5	Reports	Order/Return/Reconciliation reports with filters.	5th
+6	Order Details	View individual order details (shipping, returns, payments).	6th
+7	Multi-Tenancy	Tenant isolation using Supabase row-level security (RLS).	7th
+8	ETL Pipeline	Data ingestion from Amazon SPI-API to Supabase.	8th
+9	Image Processing	AI-powered background removal (Cloudinary/Supabase Integration).	9th
+10	Deployment	Vercel/AWS deployment with Supabase environment variables.	10th
+
+
+
+-----------------------------------
+
+firebase is the database that is being used
+Create all necessary firebase collections

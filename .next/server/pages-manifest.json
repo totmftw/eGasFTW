@@ -1,0 +1,15 @@
+{
+  "/inventory/inventory": "pages/inventory/inventory.js",
+  "/orders": "pages/orders.js",
+  "/common": "pages/common.js",
+  "/catalog": "pages/catalog.js",
+  "/dashboard": "pages/dashboard.js",
+  "/login": "pages/login.js",
+  "/inventory": "pages/inventory.js",
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/auth": "pages/auth.js",
+  "/dashboard/dashboard": "pages/dashboard/dashboard.js",
+  "/reports": "pages/reports.js",
+  "/_document": "pages/_document.js"
+}
