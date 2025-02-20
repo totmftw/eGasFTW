@@ -1,6 +1,6 @@
 import React from 'react';
 
-const RenderContentSections = ({ contentSectionsData }) => {
+const RenderContentSections = ({ contentSectionsData = [] }) => {
   return (
     <div>
       {contentSectionsData.map((section, index) => (

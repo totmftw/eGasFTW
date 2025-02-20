@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[668],{3101:(n,e,_)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/inventory",function(){return _(2687)}])},2687:(n,e,_)=>{"use strict";_.r(e),_.d(e,{default:()=>u});var r=_(4848);function u(){return(0,r.jsx)("div",{children:"Inventory Page"})}}},n=>{var e=e=>n(n.s=e);n.O(0,[636,593,792],()=>e(3101)),_N_E=n.O()}]);

@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[331],{8711:(n,_,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/common",function(){return e(4256)}])},4256:(n,_,e)=>{"use strict";e.r(_),e.d(_,{default:()=>r});var u=e(4848);function r(){return(0,u.jsx)("div",{children:"Common Page"})}}},n=>{var _=_=>n(n.s=_);n.O(0,[636,593,792],()=>_(8711)),_N_E=n.O()}]);
