@@ -1,15 +1,15 @@
 {
-  "/inventory/inventory": "pages/inventory/inventory.js",
-  "/orders": "pages/orders.js",
-  "/common": "pages/common.js",
-  "/catalog": "pages/catalog.js",
-  "/dashboard": "pages/dashboard.js",
-  "/login": "pages/login.js",
-  "/inventory": "pages/inventory.js",
-  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
   "/auth": "pages/auth.js",
+  "/catalog": "pages/catalog.js",
+  "/common": "pages/common.js",
   "/dashboard/dashboard": "pages/dashboard/dashboard.js",
+  "/dashboard": "pages/dashboard.js",
+  "/inventory": "pages/inventory.js",
+  "/inventory/inventory": "pages/inventory/inventory.js",
+  "/login": "pages/login.js",
+  "/orders": "pages/orders.js",
   "/reports": "pages/reports.js",
   "/_document": "pages/_document.js"
 }
